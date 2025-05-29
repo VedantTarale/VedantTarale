@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @VedantTarale
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning MERN Stack
 <!--- - 💞️ I’m looking to collaborate on --->
 - 📫 How to reach me vedanttarale10@gmail.com
 
